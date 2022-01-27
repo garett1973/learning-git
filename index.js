@@ -1,1 +1,1 @@
-console.lot("Hello from git!");
+console.log("Hello from git!");
